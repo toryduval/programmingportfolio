@@ -8,4 +8,5 @@
 ### Simple Pacman Game
   description
  
- ![PacmanGame](https://toryduval.github.io/programmingportfolio/)
+ ![alt text] [PacmanGame]
+ [PacmanGame]:https://toryduval.github.io/programmingportfolio/ "Player and pellet"
