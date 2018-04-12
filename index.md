@@ -24,9 +24,9 @@
 ### Guessing Game
   This program allows the user to guess a random number 1-100.  It will tell you if your guess was too high or too low, and when you guess the correct number, it will tell you how many attempts you made.
     
-    ![GuessGame](https://github.com/toryduval/programmingportfolio/blob/master/Images/GuessGame.png)
+   ![GuessGame](https://github.com/toryduval/programmingportfolio/blob/master/Images/GuessGame.png)
     
-    [Guessing Game](https://github.com/toryduval/GuessingGame) source code in GitHub.
+   [Guessing Game](https://github.com/toryduval/GuessingGame) source code in GitHub.
     
     
   
