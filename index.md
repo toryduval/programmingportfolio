@@ -16,6 +16,6 @@
  ### Shape Tester
   description
   
-  ![ShapeTester](https://toryduval.github.io/programmingportfolio/ "Player and pellet")
+  ![ShapeTester](https://github.com/toryduval/programmingportfolio/blob/master/Images/ShapeTester.png)
   
   
