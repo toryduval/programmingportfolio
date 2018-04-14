@@ -11,7 +11,7 @@
  ![PacmanGame.png](https://github.com/toryduval/programmingportfolio/blob/master/Images/PacmanGame.png "Player and pellet")
  ![PacmanCollision.png](https://github.com/toryduval/programmingportfolio/blob/master/Images/PacmanCollision.png "after collision")
  
- [Pacman Project](https://github.com/WREX-YX/pacMan/tree/master/src) source code in GitHub under the "collision" file.
+ [Pacman Project](https://github.com/WREX-YX/pacMan/tree/master/src) source code and mockups in GitHub under the "collision" file.
  
  
 ### Shape Tester
