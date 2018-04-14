@@ -41,6 +41,9 @@
   ![Calculator.png](https://github.com/toryduval/Calculator/blob/master/Calculator.png)
 
   [Calculator](https://github.com/toryduval/Calculator) source code in GitHub.
-### Game
+### Inches to Centimeter Converter
+  In this program in Processing, the user can move the mouse left and right to draw a line between the two rulers. One ruler is in inches, the other in centimeters, and the program will tell you the length of the line to the right of each ruler.
   
+  ![in-to-cm](https://github.com/toryduval/In-to-Cm/blob/master/in-to-cm.png)
   
+  [In to Cm](https://github.com/toryduval/In-to-Cm) source code in GitHub.
