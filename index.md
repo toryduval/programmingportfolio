@@ -15,21 +15,21 @@
  
  
 ### Shape Tester
-  This is a program in Java that calculates the surface area and volume of boxes (or rectangular prisms), spheres, and (rectangular) pyramids.  The user inputs their data, choosing which three-dimensional object he or she would like to calculate and the dimensions of these objects, by typing it in when asked by the program.
+  This Java program calculates the surface area and volume of boxes (or rectangular prisms), spheres, and (rectangular) pyramids.  The user inputs their data, choosing which three-dimensional object he or she would like to calculate and the dimensions of these objects, by typing it in when asked by the program.
   
   ![ShapeTester.png](https://github.com/toryduval/programmingportfolio/blob/master/Images/ShapeTester.png)
   
   [Shape Tester Project](https://github.com/toryduval/TGDShapes/blob/master/README.md) source code in GitHub.
   
 ### Guessing Game
-  This Java program allows the user to guess a random number 1-100.  It will tell you if your guess was too high or too low, and when you guess the correct number, it will tell you how many attempts you made.
+  The Guessing Game is a Java program that allows the user to guess a random number 1-100.  It will tell you if your guess was too high or too low, and when you guess the correct number, it will tell you how many attempts you made.
     
    ![GuessGame.png](https://github.com/toryduval/programmingportfolio/blob/master/Images/GuessGame.png)
     
    [Guessing Game](https://github.com/toryduval/GuessingGame) source code in GitHub.
 
 ### Age Calculator
-  This is a program in java that calculates your exact age in seconds, minutes, hours, days, months, years, decades, centuries, and millenniums wehn the user types in his or her birthday.
+   When the user types in his or her birthday, this program in java calculates the user's exact age in seconds, minutes, hours, days, months, years, decades, centuries, and millenniums.
   
   ![AgeCalc.png](https://github.com/toryduval/programmingportfolio/blob/master/Images/AgeCalc.png)
   
@@ -41,9 +41,10 @@
   ![Calculator.png](https://github.com/toryduval/Calculator/blob/master/Calculator.png)
 
   [Calculator](https://github.com/toryduval/Calculator) source code in GitHub.
+  
 ### Inches to Centimeter Converter
   In this program in Processing, the user can move the mouse left and right to draw a line between the two rulers. One ruler is in inches, the other in centimeters, and the program will tell you the length of the line to the right of each ruler.
   
-  ![](file:///Users/brendaalcorn/Desktop/Calculator.png?raw=true)
+  ![](file:///Users/brendaalcorn/Desktop/Calculator.png)
   
   [In to Cm](https://github.com/toryduval/In-to-Cm) source code in GitHub.
