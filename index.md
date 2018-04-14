@@ -33,10 +33,12 @@
   
   ![AgeCalc.png](https://github.com/toryduval/programmingportfolio/blob/master/Images/AgeCalc.png)
   
-  [Age Calculator](https://github.com/toryduval/Age) source code in Github.
+  [Age Calculator](https://github.com/toryduval/Age) source code in GitHub.
     
 ### Calculator
 
+
+  [Calculator](https://github.com/toryduval/Calculator) source code in GitHub.
 ### Game
   
   
