@@ -50,5 +50,5 @@
   [In to Cm](https://github.com/toryduval/In-to-Cm) source code in GitHub.
   
   
-Contact me at: [toryduva9618@granitesd.org](toryduva9618@granitesd.org)
+Contact me at: toryduva9618@granitesd.org
 
