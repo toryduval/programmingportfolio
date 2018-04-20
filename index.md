@@ -31,14 +31,14 @@
 ### Age Calculator
    When the user types in his or her birthday, this program in java calculates the user's exact age in seconds, minutes, hours, days, months, years, decades, centuries, and millenniums.
   
-  ![AgeCalc.png](https://github.com/toryduval/programmingportfolio/blob/master/Images/AgeCalc.png)
+  ![Age.jpg](https://raw.githubusercontent.com/toryduval/programmingportfolio/master/Images/Age.jpg)
   
   [Age Calculator](https://github.com/toryduval/Age) source code in GitHub.
     
 ### Calculator
   This is a simple calculator made in Processing.  The user can use either the mouse or the keys to use the buttons to make calculations.
   
-  ![Calculator.png](https://github.com/toryduval/Calculator/blob/master/Calculator.png)
+  ![Calculator.jpg](https://raw.githubusercontent.com/toryduval/programmingportfolio/master/Images/Calculator.jpg)
 
   [Calculator](https://github.com/toryduval/Calculator) source code in GitHub.
   
