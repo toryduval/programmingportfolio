@@ -8,8 +8,8 @@
 ### Simple Pacman Game
   This is a game in Java that I helped create with a group of three other students, and it is the start of a very basic version of Pacman.  In this game, the user controls the player (the blue ball) using the arrow keys to try to collect pellets (the white ball), and when the player collides into the pellet, the pellet disappears.  
  
- ![PacmanGame.jpg](https://github.com/toryduval/programmingportfolio/blob/master/Images/PacmanGame.jpg "Player and pellet")
- ![PacmanCollision.png](https://github.com/toryduval/programmingportfolio/blob/master/Images/PacmanCollision.png "after collision")
+ ![Pacman.jpg](https://raw.githubusercontent.com/toryduval/programmingportfolio/master/Images/Pacman.jpg "Player and pellet")
+ ![Collision.jpg](https://raw.githubusercontent.com/toryduval/programmingportfolio/master/Images/Collision.jpg "after collision")
  
  [Pacman Project](https://github.com/WREX-YX/pacMan/tree/master/src) source code and mockups in GitHub under the "collision" file.
  
@@ -24,7 +24,7 @@
 ### Guessing Game
   The Guessing Game is a Java program that allows the user to guess a random number 1-100.  It will tell you if your guess was too high or too low, and when you guess the correct number, it will tell you how many attempts you made.
     
-   ![GuessGame.png](https://github.com/toryduval/programmingportfolio/blob/master/Images/GuessGame.png)
+   ![GuessingGame.jpg](https://raw.githubusercontent.com/toryduval/programmingportfolio/master/Images/GuessingGame.jpg)
     
    [Guessing Game](https://github.com/toryduval/GuessingGame) source code in GitHub.
 
