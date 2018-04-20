@@ -17,35 +17,35 @@
 ### Shape Tester
   This Java program calculates the surface area and volume of boxes (or rectangular prisms), spheres, and (rectangular) pyramids.  The user inputs their data, choosing which three-dimensional object he or she would like to calculate and the dimensions of these objects, by typing it in when asked by the program.
   
-  ![ShapeTester.png](https://github.com/toryduval/programmingportfolio/blob/master/Images/ShapeTester.png)
+  ![Shape.jpg](https://raw.githubusercontent.com/toryduval/programmingportfolio/master/Images/Shape.jpg "Shape Tester")
   
   [Shape Tester Project](https://github.com/toryduval/TGDShapes/blob/master/README.md) source code in GitHub.
   
 ### Guessing Game
   The Guessing Game is a Java program that allows the user to guess a random number 1-100.  It will tell you if your guess was too high or too low, and when you guess the correct number, it will tell you how many attempts you made.
     
-   ![GuessingGame.jpg](https://raw.githubusercontent.com/toryduval/programmingportfolio/master/Images/GuessingGame.jpg)
+   ![GuessingGame.jpg](https://raw.githubusercontent.com/toryduval/programmingportfolio/master/Images/GuessingGame.jpg "Guessing Game")
     
    [Guessing Game](https://github.com/toryduval/GuessingGame) source code in GitHub.
 
 ### Age Calculator
    When the user types in his or her birthday, this program in java calculates the user's exact age in seconds, minutes, hours, days, months, years, decades, centuries, and millenniums.
   
-  ![Age.jpg](https://raw.githubusercontent.com/toryduval/programmingportfolio/master/Images/Age.jpg)
+  ![Age.jpg](https://raw.githubusercontent.com/toryduval/programmingportfolio/master/Images/Age.jpg "Age Calculator")
   
   [Age Calculator](https://github.com/toryduval/Age) source code in GitHub.
     
 ### Calculator
   This is a simple calculator made in Processing.  The user can use either the mouse or the keys to use the buttons to make calculations.
   
-  ![Calculator.jpg](https://raw.githubusercontent.com/toryduval/programmingportfolio/master/Images/Calculator.jpg)
+  ![Calculator.jpg](https://raw.githubusercontent.com/toryduval/programmingportfolio/master/Images/Calculator.jpg "Calculator")
 
   [Calculator](https://github.com/toryduval/Calculator) source code in GitHub.
   
 ### Inches to Centimeter Converter
   In this program in Processing, the user can move the mouse left and right to draw a line between the two rulers. One ruler is in inches, the other in centimeters, and the program will tell you the length of the line to the right of each ruler.
   
-  ![In2Cm.jpg](https://raw.githubusercontent.com/toryduval/programmingportfolio/master/Images/In2Cm.jpg)
+  ![In2Cm.jpg](https://raw.githubusercontent.com/toryduval/programmingportfolio/master/Images/In2Cm.jpg "In to Cm Converter")
   
   [In to Cm](https://github.com/toryduval/In-to-Cm) source code in GitHub.
   
