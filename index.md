@@ -8,7 +8,7 @@
 ### Simple Pacman Game
   This is a game in Java that I helped create with a group of three other students, and it is the start of a very basic version of Pacman.  In this game, the user controls the player (the blue ball) using the arrow keys to try to collect pellets (the white ball), and when the player collides into the pellet, the pellet disappears.  
  
- ![Pacman.jpg](https://raw.githubusercontent.com/toryduval/programmingportfolio/master/Images/Pacman.jpg "Player and pellet")
+ ![Pacman.jpg](https://raw.githubusercontent.com/toryduval/programmingportfolio/master/Images/Pacman.jpg "player and pellet")
  ![Collision.jpg](https://raw.githubusercontent.com/toryduval/programmingportfolio/master/Images/Collision.jpg "after collision")
  
  [Pacman Project](https://github.com/WREX-YX/pacMan/tree/master/src) source code and mockups in GitHub under the "collision" file.
@@ -50,5 +50,5 @@
   [In to Cm](https://github.com/toryduval/In-to-Cm) source code in GitHub.
   
   
-[Contact info](toryduva9618@granitesd.org)
+Contact me at: toryduva9618@granitesd.org
 
