@@ -45,7 +45,7 @@
 ### Inches to Centimeter Converter
   In this program in Processing, the user can move the mouse left and right to draw a line between the two rulers. One ruler is in inches, the other in centimeters, and the program will tell you the length of the line to the right of each ruler.
   
-  ![](file:///Users/brendaalcorn/Desktop/Calculator.png)
+  ![in-to-cm.png]()
   
   [In to Cm](https://github.com/toryduval/In-to-Cm) source code in GitHub.
   
